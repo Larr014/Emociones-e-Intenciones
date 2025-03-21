@@ -1,6 +1,54 @@
-Datasets:
-1. FakeNewsNet
-    https://github.com/KaiDMML/FakeNewsNet
-2. CoronaFake
-    https://github.com/susanli2016/NLP-with-Python/
-3. Emoti
+
+# Tesis Magistral: Análisis de Algoritmos y Datasets en Machine Learning
+
+Este repositorio contiene el código, las iteraciones y los datasets utilizados en mi investigación de tesis magistral. El objetivo principal de este trabajo es explorar la comparación de algoritmos de machine learning, el proceso de emocionalización, y el desarrollo de algoritmos para la caracterización de emociones e intenciones.
+
+## Estructura del Proyecto
+
+### 📁 `Code`
+Esta carpeta incluye las tres iteraciones clave de la investigación:
+
+1. **Comparación de Algoritmos de Machine Learning**  
+   Contiene el código para comparar y evaluar diferentes algoritmos de machine learning aplicados a los datos seleccionados.
+
+2. **Emocionalización**  
+   Archivos y scripts relacionados al proceso de emocionalización, enfocado en modelar emociones a partir de los datos.
+
+3. **Algoritmos para la Caracterización de Emociones e Intenciones**  
+   Algoritmos diseñados para identificar y caracterizar emociones e intenciones en los datos procesados.
+
+---
+
+### 📁 `Datasets`
+Esta carpeta contiene los conjuntos de datos utilizados en la investigación:
+
+1. **FakeNewsNet**  
+   - Incluye dos sub-conjuntos de datos:
+     - **PolitiFact**: Datos relacionados con verificaciones de noticias políticas.
+     - **GossipCop**: Datos relacionados con rumores y noticias de celebridades.
+
+2. **CoronaFake**  
+   - Un conjunto de datos que aborda publicaciones relacionadas con el COVID-19, explorando desinformación y noticias falsas.
+
+3. **NRC-Emotion-Lexicon**
+    - Conjunto de datos que relaciona palabras con intenciones.
+
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+
+## Créditos
+Este proyecto fue realizado como parte de mi investigación de tesis para la obtención del grado de Magister en Ingeniería en Informática. Los datos provienen de las siguientes fuentes:
+
+1. **FakeNewsNet**
+    - DOI: https://arxiv.org/abs/1809.01286
+    - https://github.com/KaiDMML/FakeNewsNet
+2. **CoronaFake**
+    - DOI:
+    - https://github.com/susanli2016/NLP-with-Python/
+3. **NRC-Emotion-Lexicon**
+    - DOI: https://arxiv.org/abs/1308.6297
+    - https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
+
